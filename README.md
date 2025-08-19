@@ -1,4 +1,3 @@
-Certo, aqui está um modelo de arquivo README.md que você pode usar para o seu projeto de conversor de moedas. Ele inclui todas as informações essenciais para quem for usar ou colaborar com o seu código.
 
 Conversor de Moedas
 Um simples conversor de moedas em Java, construído para ser executado via console. O programa obtém taxas de câmbio em tempo real de uma API para garantir conversões precisas.
